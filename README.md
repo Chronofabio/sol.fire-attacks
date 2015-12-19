@@ -7,5 +7,6 @@ Use this to start: https://xamarin.com/ and perhaps d3.js for visulizations
 
 Banned: Node.js
 
+CEO: Judy
 CCO: Kyle
-Devs: Judy, Aaron, Azamat
+Devs: Aaron, Azamat, Judy
